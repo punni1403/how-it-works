@@ -6,20 +6,16 @@ Often during initial set-up or upgrades, there comes a situation whether Kuberen
 
 The kubelet on each node is tasked with sending the control plane, specifically the 𝒏𝒐𝒅𝒆-𝒍𝒊𝒇𝒆𝒄𝒚𝒄𝒍𝒆-𝒄𝒐𝒏𝒕𝒓𝒐𝒍𝒍𝒆𝒓, running a list of checks that determines:
 
-➡ Whether the container runtime network is ready
-
-➡ Whether the CSI provider on the node is ready
-
-➡ Incomplete container runtime status check 
-
-➡ Status of the Container runtime & pod lifecycle-event generator
-
-➡ The node is shutting down 
-
-➡ Missing CPU, memory, or max pods capacities
+- Whether the container runtime network is ready
+- Whether the CSI provider on the node is ready
+- Incomplete container runtime status check 
+- Status of the Container runtime & pod lifecycle-event generator
+- The node is shutting down 
+- Missing CPU, memory, or max pods capacities
 
 
 Based on the results, the node-lifecycle-controller takes this state and sets the node’s Ready condition to one of the following statuses:
+
 ✅ 𝑻𝒓𝒖𝒆 - The node is ready because all of the kubelet checks from the node came back green/healthy/no errors
 
 ✅ 𝑭𝒂𝒍𝒔𝒆- The node isn’t ready because one or more of the kubelet checks came back red/unhealthy/with errors
