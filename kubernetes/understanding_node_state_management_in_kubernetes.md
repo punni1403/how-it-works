@@ -1,9 +1,13 @@
 # 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐍𝐨𝐝𝐞 𝐒𝐭𝐚𝐭𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬
 
 A common analysis while debugging any Kubernetes cluster involves understanding the 'Node' health that is seen on cluster events as 
+
 👉 𝘕𝘰𝘥𝘦𝘏𝘢𝘴𝘚𝘶𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵𝘔𝘦𝘮𝘰𝘳𝘺
+
 👉 𝘕𝘰𝘥𝘦𝘏𝘢𝘴𝘚𝘶𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵𝘗𝘐𝘋
+
 👉 𝘕𝘰𝘥𝘦𝘙𝘦𝘢𝘥𝘺
+
 👉 𝘐𝘯𝘷𝘢𝘭𝘪𝘥𝘋𝘪𝘴𝘬𝘊𝘢𝘱𝘢𝘤𝘪𝘵𝘺
 
 If a node is found unhealthy, due to either 'DiskPressure' or 'MemoryPressure', then kubelet takes actions using four different node based timers
