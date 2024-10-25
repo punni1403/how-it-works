@@ -20,6 +20,6 @@ Let's break it down :
 
 - Finally, the API Server removes the pod from ETCD completely, updating DB
 
-![alt text](What_Happens_When_Deleting_a_Pod.jpg "What Happens When Deleting a Pod")
+![alt text](What_Happens_When_Deleting_a_Pod.jpeg "What Happens When Deleting a Pod")
 
 Refer:- https://lnkd.in/gEu8Qz6d
