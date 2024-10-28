@@ -20,4 +20,4 @@ These 7 simple strategies can effectively help in scaling DB effectively
 
 What's your go-to strategy ?
 
-
+![alt text](Strategies_to_scale_database_on_Cloud_Native_Platform.jpg "Strategies to scale database on Cloud_Native Platform")
