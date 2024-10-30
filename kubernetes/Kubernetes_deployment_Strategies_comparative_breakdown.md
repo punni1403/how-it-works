@@ -101,5 +101,5 @@ Deployment strategies offer a unique way to perform application updates with min
 
 ❗Tough to troubleshoot
 
-![alt text](Kubernetes_deployment_Strategies_comparative_breakdown.jpg "𝐓𝐨𝐩 6 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 : 𝐀 𝐜𝐨𝐦𝐩𝐚𝐫𝐚𝐭𝐢𝐯𝐞 𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧")
+![alt text](Kubernetes_deployment_Strategies_comparative_breakdown.jpeg "𝐓𝐨𝐩 6 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 : 𝐀 𝐜𝐨𝐦𝐩𝐚𝐫𝐚𝐭𝐢𝐯𝐞 𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧")
 
