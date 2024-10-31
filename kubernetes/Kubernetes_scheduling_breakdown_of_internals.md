@@ -19,3 +19,5 @@ The scheduling algorithm to determine the appropriate worker-node kicks in based
 ✅ TaintTolerationPriority: favors nodes that have taints that are tolerated by a pod
 
 Refer:- https://lnkd.in/givcU-W8
+
+![𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐒𝐜𝐡𝐞𝐝𝐮𝐥𝐢𝐧𝐠 - 𝐀 𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐧𝐚𝐥 𝐦𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦](Kubernetes_scheduling_breakdown_of_internals.jpeg "𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐒𝐜𝐡𝐞𝐝𝐮𝐥𝐢𝐧𝐠 - 𝐀 𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐧𝐚𝐥 𝐦𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦")
