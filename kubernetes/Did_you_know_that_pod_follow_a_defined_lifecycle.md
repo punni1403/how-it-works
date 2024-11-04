@@ -10,3 +10,6 @@ Let's break down the phases:
 ⁉ 𝑼𝒏𝒌𝒏𝒐𝒘𝒏: The state of the Pod could not be obtained and it occurs due to an error in communicating with the node where the Pod should be running.
 
 Tracking the phases between pod communication is important as it helps to hashtag#debug application failures quickly before looking into the core configuration!
+
+
+![𝑫𝒊𝒅 𝒚𝒐𝒖 𝒌𝒏𝒐𝒘 𝒕𝒉𝒂𝒕 𝒑𝒐𝒅𝒔 𝒇𝒐𝒍𝒍𝒐𝒘 𝒂 𝒅𝒆𝒇𝒊𝒏𝒆𝒅 𝒍𝒊𝒇𝒆𝒄𝒚𝒄𝒍𝒆?](Did_you_know_that_pod_follow_a_defined_lifecycle.jpg "𝒑𝒐𝒅𝒔 𝒇𝒐𝒍𝒍𝒐𝒘 𝒂 𝒅𝒆𝒇𝒊𝒏𝒆𝒅 𝒍𝒊𝒇𝒆𝒄𝒚𝒄𝒍𝒆")
