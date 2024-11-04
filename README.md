@@ -7,3 +7,4 @@ learn concepts around the multiple technology which crisp explaination
 - [Understanding node state management in Kubernetes.](kubernetes/understanding_node_state_management_in_kubernetes.md)
 - [What happens when we delete a pod in Kubernetes cluster.](kubernetes/What_Happens_When_Deleting_a_Pod.md)
 - [Kubernetes Scheduling - breakdown of internal mechanism.](kubernetes/Kubernetes_scheduling_breakdown_of_internals.md)
+- [What happens when k8s client hit the kubectl apply command.](kubernetes/what_happens_when_k8s_fire_kubectl_command.md)
