@@ -12,6 +12,8 @@ One of the awesome things about Kubernetes is that it handles the deployment of 
 
 This is a living document. If you spot areas that can be improved or rewritten, contributions are welcome!
 
+![What happens when k8s client hit the kubectl apply command](what_happens_when_k8s_fire_kubectl_command.jpg "What happens when k8s client hit the kubectl apply command")
+
 ## Contents
 
 1. [kubectl](#kubectl)
