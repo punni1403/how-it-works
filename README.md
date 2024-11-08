@@ -2,6 +2,7 @@
 learn concepts around the multiple technology which crisp explaination
 
 ### Kubernetes
+- [𝑫𝒊𝒅 𝒚𝒐𝒖 𝒌𝒏𝒐𝒘 𝒕𝒉𝒂𝒕 𝒑𝒐𝒅𝒔 𝒇𝒐𝒍𝒍𝒐𝒘 𝒂 𝒅𝒆𝒇𝒊𝒏𝒆𝒅 𝒍𝒊𝒇𝒆𝒄𝒚𝒄𝒍𝒆.](kubernetes/Did_you_know_that_pod_follow_a_defined_lifecycle.md)
 - [Controlling fine-grained container metrics via Kubernetes HPA.](kubernetes/Controlling_fine-grained_container_metrics_via_k8s_HPA.md)
 - [How does a DNS query works for a Pod in kubernetes.](kubernetes/how_does_a_DNS_query_works_for_a_Pod_in_k8s.md)
 - [Understanding node state management in Kubernetes.](kubernetes/understanding_node_state_management_in_kubernetes.md)
