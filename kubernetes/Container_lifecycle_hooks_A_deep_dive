@@ -34,5 +34,5 @@ The lifecycle hooks are specified by three handlers
 
 Container lifecycle hooks provide a powerful mechanism to execute custom logic at specific stages of a container’s lifecycle in Kubernetes. By leveraging these hooks, developers can ensure proper initialization and cleanup of resources, contributing to more efficient container management
 
-![𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐋𝐢𝐟𝐞𝐂𝐲𝐜𝐥𝐞 𝐇𝐨𝐨𝐤𝐬 - 𝐀 𝐝𝐞𝐞𝐩 𝐝𝐢𝐯𝐞 ](Controlling_fine-grained_container_metrics_via_k8s_HPA.jpg "𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐥𝐢𝐧𝐠 𝐟𝐢𝐧𝐞-𝐠𝐫𝐚𝐢𝐧𝐞𝐝 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐯𝐢𝐚 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐇𝐏𝐀")
+![𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐋𝐢𝐟𝐞𝐂𝐲𝐜𝐥𝐞 𝐇𝐨𝐨𝐤𝐬 - 𝐀 𝐝𝐞𝐞𝐩 𝐝𝐢𝐯𝐞.](Container_lifecycle_hooks_A_deep_dive.jpg "𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐋𝐢𝐟𝐞𝐂𝐲𝐜𝐥𝐞 𝐇𝐨𝐨𝐤𝐬 - 𝐀 𝐝𝐞𝐞𝐩 𝐝𝐢𝐯𝐞")
 
