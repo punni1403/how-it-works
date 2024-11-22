@@ -35,3 +35,5 @@ Extensive caching can reduce latency but requires more memory resources if not m
 
 There's often a trade-off between maximizing throughput and minimizing latency.
 
+![Throughput and Latency.](Throughput_and_Latency.jpg "Throughput and Latency")
+
