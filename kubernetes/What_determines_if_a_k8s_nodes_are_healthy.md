@@ -30,4 +30,4 @@ Based on the results, the node-lifecycle-controller takes this state and sets th
 
 These are health-check signals that determines availability of node and any issues that can come in future!
 
-![What_determines_if_a_k8s_nodes_are_healthy](What_determines_if_a_k8s_nodes_are_healthy.jpg "𝐖𝐡𝐚𝐭 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐞𝐬 𝐢𝐟 𝐭𝐡𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐍𝐨𝐝𝐞𝐬 𝐚𝐫𝐞 𝐡𝐞𝐚𝐥𝐭𝐡𝐲")
+![What_determines_if_a_k8s_nodes_are_healthy](What_determines_if_a_k8s_nodes_are_healthy.jpeg "𝐖𝐡𝐚𝐭 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐞𝐬 𝐢𝐟 𝐭𝐡𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐍𝐨𝐝𝐞𝐬 𝐚𝐫𝐞 𝐡𝐞𝐚𝐥𝐭𝐡𝐲")
