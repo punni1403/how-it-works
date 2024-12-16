@@ -6,13 +6,13 @@ Kubernetes Container Runtime Interface (CRI) acts as the main connection between
 
 Let's understand the workflow:
 
-👉 When 'kubectl exec' is executed on a pod, the request is first handed over to the hashtag#kubernetes API Server and then the API Server calls the 'kubelet Exec API'
+👉 When 'kubectl exec' is executed on a pod, the request is first handed over to the kubernetes API Server and then the API Server calls the 'kubelet Exec API'
 
-👉 The implementation of Streaming API in hashtag#CRI shim relies on a set of independent Streaming Server mechanisms
+👉 The implementation of Streaming API in CRI shim relies on a set of independent Streaming Server mechanisms
 
-👉 At this time, kubelet calls hashtag#k8s CRI’s Exec interface and the one responsible for responding to this interface is naturally the specific CRI shim
+👉 At this time, kubelet calls k8s CRI’s Exec interface and the one responsible for responding to this interface is naturally the specific CRI shim
 
-👉 Here CRI shim will not directly call any hashtag#container runtime (CRI-O, containerd, rkt, etc) for processing, but only returns a URL to the kubelet
+👉 Here CRI shim will not directly call any container runtime (CRI-O, containerd, rkt, etc) for processing, but only returns a URL to the kubelet
 
 👉 Clients like crictl or the kubelet (via kubectl) request a new exec, attach or port forward session from the runtime using the gRPC interface.
 
