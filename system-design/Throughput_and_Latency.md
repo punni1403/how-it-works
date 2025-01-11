@@ -14,9 +14,7 @@ High throughput means the system can handle more requests in less time.
 
 
 𝗟𝗮𝘁𝗲𝗻𝗰𝘆 is the time taken to process a single operation or request.
-
 It's usually measured in milliseconds or microseconds. 
-
 Low latency is essential in systems with critical response time, like high-frequency trading systems.
 
 𝗧𝗵𝗶𝗻𝗴𝘀 𝘁𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝗿𝗲𝗱𝘂𝗰𝗲 𝗟𝗮𝘁𝗲𝗻𝗰𝘆: 
