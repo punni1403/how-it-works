@@ -1,5 +1,5 @@
 # how-it-works
-learn concepts around the multiple technology which crisp explaination
+Learn concepts around the multiple technology which crisp explaination
 
 ### Kubernetes
 - [𝑫𝒊𝒅 𝒚𝒐𝒖 𝒌𝒏𝒐𝒘 𝒕𝒉𝒂𝒕 𝒑𝒐𝒅𝒔 𝒇𝒐𝒍𝒍𝒐𝒘 𝒂 𝒅𝒆𝒇𝒊𝒏𝒆𝒅 𝒍𝒊𝒇𝒆𝒄𝒚𝒄𝒍𝒆.](kubernetes/Did_you_know_that_pod_follow_a_defined_lifecycle.md)
